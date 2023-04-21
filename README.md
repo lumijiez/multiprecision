@@ -12,11 +12,11 @@ A list of the main features of the project:
 
 | Feature | Description |
 | ------- | ----------- |
-| Addition | Overloaded operator + |
-| Subtraction | Overloaded operator - |
-| Multiplication | Overloaded operator * |
-| Division | Overloaded operator / |
-| I/O | Overloaded operators cin/cout |
+| Addition | Overloaded operator ```+``` |
+| Subtraction | Overloaded operator ```-``` |
+| Multiplication | Overloaded operator ```*``` |
+| Division | Overloaded operator ```/``` |
+| I/O | Overloaded operators ```cin```/```cout``` |
 | Comparison | Overloaded operators ```<```/```>```/```==```/```!=``` |
 
 ## Usage
