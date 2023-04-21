@@ -1,21 +1,10 @@
-# Project Title
+# Variable Multi-precision
 
-Short description of the project.
-
-## Table of Contents
-
-- [Project Title](#project-title)
-  - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-  - [Features](#features)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
+Dirty but easy-to-comprehend arbitrary multiprecision libraries. Beware: VERY DIRTY. 
 
 ## Description
 
-A longer description of the project, its purpose, and its intended audience.
+This was a project intended as an university laboratory, meant to make us understand the value of precision in numerical computations. It uses vectors as means to store numbers by its digits, and operates on them accordingly. I've implemented addition, subtraction, multiplication and division. Any contributions are welcome! I also know the code is extremely unefficient and dirty, but my objective was to accomplish it as fast as possible.
 
 ## Features
 
@@ -23,34 +12,18 @@ A list of the main features of the project:
 
 | Feature | Description |
 | ------- | ----------- |
-| Feature 1 | Description of feature 1 |
-| Feature 2 | Description of feature 2 |
-| Feature 3 | Description of feature 3 |
-
-## Installation
-
-Instructions for installing the project:
-
-1. Step 1
-2. Step 2
-3. Step 3
+| Addition | Overloaded operator + |
+| Subtraction | Overloaded operator - |
+| Multiplication | Overloaded operator * |
+| Division | Overloaded operator / |
+| I/O | Overloaded operators cin/cout |
+| Comparison | Overloaded operators </>/==/!= |
 
 ## Usage
 
-Instructions for using the project:
+Instructions for using the library:
 
-1. Step 1
-2. Step 2
-3. Step 3
+1. Read a number from input stream using ```cin```
+2. Create a new ```triple``` object using that input.
+3. Operate with the ```triple```s as needed.
 
-## Contributing
-
-Guidelines for contributing to the project:
-
-1. Step 1
-2. Step 2
-3. Step 3
-
-## License
-
-Information about the license for the project, and any relevant copyright or usage details.
