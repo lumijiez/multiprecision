@@ -17,7 +17,7 @@ A list of the main features of the project:
 | Multiplication | Overloaded operator * |
 | Division | Overloaded operator / |
 | I/O | Overloaded operators cin/cout |
-| Comparison | Overloaded operators </>/==/!= |
+| Comparison | Overloaded operators ```<```/```>```/```==```/```!=``` |
 
 ## Usage
 
