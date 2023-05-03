@@ -12,13 +12,13 @@ int main(int argc,char* argv[]) {
     //setPrecision(atoi(argv[3]));
     cin >> number1 >> number2 >> action >> precision;
     switch (action) {
-    case '+': res = number1 + number2;
+    case '+': res = number1 + number2; //This is for summation
         break;
-    case '-': res = number1 - number2;
+    case '-': res = number1 - number2; //This is for substraction
         break;
-    case '*': res = number1 * number2;
+    case '*': res = number1 * number2; //This is for multiplication
         break;
-    case '/': res = number1 / number2;
+    case '/': res = number1 / number2; //This is for division
         break;
     default: cout << "No such operation retard!";
         break;
