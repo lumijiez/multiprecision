@@ -1,6 +1,6 @@
-# Variable Multi-precision
+# Arbitrary Multi-precision
 
-Dirty but easy-to-comprehend arbitrary multiprecision libraries. Beware: VERY DIRTY. 
+Dirty but easy-to-comprehend arbitrary multiprecision libraries. Beware: VERY dirty. 
 
 ## Description
 
